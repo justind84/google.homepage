@@ -1,0 +1,142 @@
+
+a:hover {
+	text-decoration: underline
+}
+
+
+#top-nav-bar {
+	float: right;
+	width: 240px;
+	height: 35px;
+	display: block;
+	padding-right: 75px;
+	padding-top: 15px;
+}
+
+.nav-bar-links {
+	padding-left: 15px;
+	font-size: 12px;
+	font-family: Arial;
+	text-decoration: none;
+	color: black;
+}
+
+#logo-space {
+	clear: both;
+	position: relative;
+	width: 100%;
+	height: 242px;
+	display: block;
+}
+
+#google-logo {
+	display: block;
+	padding-top: 150px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#search-form {
+	display: block;
+	width: 503px;
+	height: 34px;
+	font-size: 20px;
+	font-family: Arial;
+	margin-top: 25px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#search-container {
+	display: block;
+	width: 100%;
+}
+
+
+#sign-in-button {
+	background-color: #347cef;
+	height: 15px;
+	width: 69.34px;
+	text-align: center;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #347cef;
+	border-radius: 2.5px;
+	color: white;
+	font-family: Arial;
+	font-weight: bold;
+	padding-top: 7.5px;
+	padding-bottom: 7.5px;
+	display: inline-block;
+	margin-left: 10px;
+	font-size: 12px;
+	text-decoration: none;
+}
+
+.left-footer-links, .right-footer-links {
+	text-decoration: none;
+	color: #686768;
+	font-family: Arial;
+	font-size: 12px;
+}
+
+#footer {
+	border-top: 1px solid #c8c7c9;
+	width: 100%;
+	height: 40px;
+	background-color: #eaebed;
+	position: absolute;
+	bottom: 0;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.left-footer-links {
+	float: left;
+	padding: 12px 15px 12px 15px;
+}
+
+.right-footer-links {
+	float: right;
+	padding: 12px 18px 12px 15px;
+}
+
+#search:hover {
+	color: black;
+	border: 1px solid #686768;
+}
+
+#lucky:hover {
+	color: black;
+	border: 1px solid #686768;
+}
+
+#search, #lucky {
+	background-color: #eaebed;
+	font-family: Arial;
+	font-weight: bold;
+	margin: 8px;
+	margin-top: 30px;
+	color: #686768;
+	border: 1px solid #eaebed;
+	display: inline;
+	border-radius: 2px;
+}
+
+.search-buttons {
+	text-align: center;
+}
+
+#search {
+	display: inline-block;
+	width: 125.75px;
+	height: 36px;
+	position: relative;
+}
+
+#lucky {
+	display: inline-block;
+	width: 142.58px;
+	height: 36px;
+	position: relative;
+}
